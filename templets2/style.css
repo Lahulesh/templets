@@ -1,0 +1,98 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-image: linear-gradient(-360deg,orange,red,green,yellow,indigo,pink,black,orangered);
+}
+.img
+{
+    /* background-image: url(img/https___www.lifeofpix.com_wp-content_uploads_2020_04_IMG_2133-Modifier.jpg);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    /* <img src="img/https___www.lifeofpix.com_wp-content_uploads_2020_04_IMG_2133-Modifier.jpg" width="100%" height="600px"> */
+    background-image: url(img/https___www.lifeofpix.com_wp-content_uploads_2020_04_IMG_2133-Modifier.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+.img p 
+{
+    margin-top: 100px;
+    margin-left: 50px;
+    text-shadow: 2px 2px 5px orangered;
+    color: black;
+    font-size: 15px;
+}
+.img h1
+{
+    margin-left: 50px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+
+}
+.img button
+{
+    margin-left: 50px;
+    margin-top: 100px;
+    text-shadow: 2px 2px 5px rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    border-bottom: 3px solid orange;
+    background-color: orange(47, 255, 20, 0.836);
+}
+.none
+{
+    margin-top: 50px;
+}
+.qqq
+{
+    margin-top: 60px;
+}
+.ia
+{
+    border: 3px solid black;
+    background-image: url(img/https___www.lifeofpix.com_wp-content_uploads_2020_04_IMG_2133-Modifier.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.asa
+{
+    border: 4px dotted rgba(99, 255, 38, 0.836);
+    text-align: center;
+    color: seashell;
+    background-image: linear-gradient(-45deg,indigo,red,orange);
+}
+.assss
+{
+    text-align: center;
+    background-image: linear-gradient(red,pink,orange,indigo);
+    color: red;
+    text-shadow: 3px 3px 5px orangered;
+}
+.zzz
+{
+    margin-top: 90px;
+    border: 3px solid black;
+    background-color: rgb(0, 255, 234);
+}
+.asqqq
+{
+    text-align: center;
+    padding-top: 50px;
+}
+input
+{
+    border: 3px solid black;
+    border-radius: 60px 100px 100px 150px;
+    text-align: center;
+    text-shadow: 2px 2px 5px green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
